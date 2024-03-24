@@ -1,0 +1,5 @@
+Item-Code       Item-Name       Item-Brand      Item-Price      Item-Quantity   Item-Category   Purchaced-Date 
+6               Speaker         Samsung         50000           6               Speakers        25-09-2023     
+2               Mouse           Logitech        6000            10              Mouses          15-10-2023     
+3               Keyboard        Logitech        20000           4               Keyboards       25-10-2022     
+10              Chair           Damro           15000           5               Chairs          11-04-2023     
